@@ -1,0 +1,11 @@
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\bin\Debug\netcoreapp2.2\numberguess.deps.json
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\bin\Debug\netcoreapp2.2\numberguess.runtimeconfig.json
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\bin\Debug\netcoreapp2.2\numberguess.runtimeconfig.dev.json
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\bin\Debug\netcoreapp2.2\numberguess.dll
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\bin\Debug\netcoreapp2.2\numberguess.pdb
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\obj\Debug\netcoreapp2.2\numberguess.csprojAssemblyReference.cache
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\obj\Debug\netcoreapp2.2\numberguess.csproj.CoreCompileInputs.cache
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\obj\Debug\netcoreapp2.2\numberguess.AssemblyInfoInputs.cache
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\obj\Debug\netcoreapp2.2\numberguess.AssemblyInfo.cs
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\obj\Debug\netcoreapp2.2\numberguess.dll
+C:\Users\Malik Whitfield\source\codeworks\csharp\numberguess\obj\Debug\netcoreapp2.2\numberguess.pdb
